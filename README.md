@@ -1,6 +1,7 @@
 # Mysql-Complex-Query
 select * from tutorial.data
 
+
 SELECT 
     HourOfCall,
     COUNT(*) AS IncidentCount
